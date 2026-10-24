@@ -146,3 +146,4 @@ Las contribuciones, correcciones y mejoras son bienvenidas. Por favor abre un is
 ---
 
 **¡Comienza ahora!** → [Capítulo 1: Introducción a Git](./taller/capitulo-01-git.md)
+> Nota: Ejercicio A2 completado exitosamente con ramas.
